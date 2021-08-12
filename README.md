@@ -6,6 +6,6 @@ Configuracion inicial para crear archivo de Tailwind, lo que se puede crear es:
 
 ## Correr
 Tambien se puede usar el archivo postcss.config.js para poder configurar los archivos CSS
-"""
+```
 npm start
-"""
+```
